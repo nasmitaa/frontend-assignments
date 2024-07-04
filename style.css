@@ -1,0 +1,38 @@
+.box{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+.inner{
+    background-color: rgb(130, 161, 204);
+    width: 500px;
+    height: 500px;
+    border-radius: 30px;
+}
+.inner img{
+    width: 94%;
+    height: 60%;
+    border-radius: 30px;
+    margin: 15px;
+ }
+.button {
+    border: none;
+    color: aliceblue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+.button {border-radius: 30px;}
+h2{
+    text-align: center;
+    padding-left: 20px;
+    color: aliceblue;
+}
+p{
+    text-align: center;
+    padding-left: 20px;
+    color: aliceblue;
+    padding-right: 20px;
+}
